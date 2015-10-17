@@ -1,0 +1,27 @@
+{
+  "name": "start-wars",
+  "version": "1.0.0",
+  "description": "get random star wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaabiri/starwars-name.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "'Jaabiri <'jaabiri_salim@hotmail.com'>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaabiri/starwars-name/issues"
+  },
+  "homepage": "https://github.com/jaabiri/starwars-name#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "5621e780cb5a6776f16fc333",
+    "index": 0,
+    "guid": "2611bc1e-4e9c-460d-b0b8-c5d42bb85d6d",
+    "isActive": false,
+    "balance": "$2,544.18",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "green",
+    "name": "Charlene Robertson",
+    "gender": "female",
+    "company": "EXTRAGENE",
+    "email": "charlenerobertson@extragene.com"
+  },
+  {
+    "_id": "5621e78011f21df721a2eca1",
+    "index": 1,
+    "guid": "6d0b5b85-634d-4474-970c-755a16f9260d",
+    "isActive": false,
+    "balance": "$3,112.02",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "blue",
+    "name": "Aisha Pate",
+    "gender": "female",
+    "company": "MENBRAIN",
+    "email": "aishapate@menbrain.com"
+  },
+  {
+    "_id": "5621e78040d6fdf83af45c17",
+    "index": 2,
+    "guid": "865fd6ac-31e3-41ba-a78b-21c0f9bc4aad",
+    "isActive": true,
+    "balance": "$1,985.68",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "brown",
+    "name": "Margie Stone",
+    "gender": "female",
+    "company": "UXMOX",
+    "email": "margiestone@uxmox.com"
+  },
+  {
+    "_id": "5621e780b7302f039e597ecd",
+    "index": 3,
+    "guid": "4296cb68-134e-47ea-b18b-4e7034bfdd42",
+    "isActive": false,
+    "balance": "$1,113.11",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "green",
+    "name": "Rhodes Rodriguez",
+    "gender": "male",
+    "company": "COSMETEX",
+    "email": "rhodesrodriguez@cosmetex.com"
+  },
+  {
+    "_id": "5621e7809427a4cad553684e",
+    "index": 4,
+    "guid": "b451486b-41dc-4ec7-bdee-008416a68ccb",
+    "isActive": false,
+    "balance": "$3,603.06",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "green",
+    "name": "Janine Valenzuela",
+    "gender": "female",
+    "company": "DAIDO",
+    "email": "janinevalenzuela@daido.com"
+  }
+]
